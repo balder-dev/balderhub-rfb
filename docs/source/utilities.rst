@@ -34,7 +34,7 @@ Test Server
 .. autoclass:: balderhub.rfb.lib.utils.RfbServer
     :members:
 
-.. autoclass:: balderhub.rfb.lib.utils.RfbConnectionServer
+.. autoclass:: balderhub.rfb.lib.utils.RfbConnectionThread
     :members:
 
 Test Clients
